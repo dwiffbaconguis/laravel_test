@@ -4,6 +4,6 @@
 	<title>MDK Lido Loans</title>
 </head>
 <body>
-	<p>Hello World! Dwiff's Experimental Branch 1</p>
+	<p>Dwiff's Experimental Branch</p>
 </body>
 </html>
